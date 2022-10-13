@@ -1,5 +1,12 @@
 package com.Practical.Assignment1.SetA;
 
+/** c) Write a menu driven program to perform the following Operations
+ * 1. Calculate the volume of cylinder.
+ * 2. Find the factorial of given number.
+ * 3. Check the number is Armstrong or not.
+ * 4. Exit
+ */
+
 import java.util.Scanner;
 
 public class MenuDrivenProgram {
